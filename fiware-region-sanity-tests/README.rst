@@ -137,7 +137,7 @@ All configuration values will be 'strings'.
                 "PiraeusN": "Public",
                 "PiraeusU": "public-ext-net-1",
                 "Zurich": "public-ext-net-1",
-                "Karlskrona": "PUBLIC3_external",
+                "Karlskrona": "public-ext-net-01",
                 "NITOS-UTH": "net04_ext",
                 "Budapest": "publicRange",
                 "Stockholm": "XIFIpublicACREO",
